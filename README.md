@@ -20,3 +20,4 @@
 - Функции def
 - Условия
 - Список и кортеж
+![Screenshot](https://github.com/Cholponai02/Shop_Basket/blob/main/shopping-basket.png)
