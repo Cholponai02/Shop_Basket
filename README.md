@@ -1,7 +1,6 @@
 # Shop_Basket
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Contributors](https://img.shields.io/github/contributors/ваш_проект)
 
 
 
